@@ -1,0 +1,1 @@
+This is Leec24's first git project! 
