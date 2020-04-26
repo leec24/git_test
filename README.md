@@ -1,1 +1,1 @@
-This is Leec24's first git project! 
+This is Leec24's first git project! I am adding more text!
